@@ -12,3 +12,4 @@ If you're here, though, you're probably interested in a couple things in particu
 - 💰Buttondown's [sponsorships page](https://github.com/orgs/buttondown-email/sponsoring), through which I've donated back thousands of dollars to the open source software that's enabled Buttondown's growth & success
 - 📜Buttondown's [documentation](https://github.com/buttondown-email/docs), which is hosted on `docs.buttondown.email`
 - 📚Buttondown's [blog](https://github.com/buttondown-email/blog), which is hosted on `blog.buttondown.email`
+- 💬 Buttondown's [public discussion forum](https://github.com/buttondown-email/discussions/discussions) for free-form questions, ideas, or long-form chats
