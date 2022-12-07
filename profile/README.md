@@ -13,3 +13,4 @@ If you're here, though, you're probably interested in a couple things in particu
 - 📜Buttondown's [documentation](https://github.com/buttondown-email/docs), which is hosted on `docs.buttondown.email`
 - 📚Buttondown's [blog](https://github.com/buttondown-email/blog), which is hosted on `blog.buttondown.email`
 - 💬 Buttondown's [public discussion forum](https://github.com/buttondown-email/discussions/discussions) for free-form questions, ideas, or long-form chats
+- 💻 Buttondown's [OpenAPI spec](https://github.com/buttondown-email/openapi), tracking changes to the externally-facing API
